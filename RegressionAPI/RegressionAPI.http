@@ -1,0 +1,6 @@
+@RegressionAPI_HostAddress = http://localhost:5182
+
+GET {{RegressionAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
