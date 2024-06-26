@@ -1,8 +1,9 @@
 # regression-short-term-stability-api
 regression-short-term-stability-api made for Bharat Petroleum Corporation
 
-#Linear Regression in Excel 
+##Linear Regression in Excel 
 Regression analysis output: Summary Output
+
 ![image](https://github.com/prajeeta15/regression-short-term-stability-api/assets/96904203/4faefa38-3fb7-4830-86b3-35e52f150114)
 
 This part tells you how well the calculated linear regression equation fits your source data. Regression analysis output: Summary Output
